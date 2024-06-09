@@ -1,0 +1,5 @@
+.idea/
+__pycache__/main.cpython-311.pyc
+__pycache__/tests.cpython-311-pytest-8.2.2.pyc
+.DS_Store
+__pycache__/conftest.cpython-311-pytest-8.2.2.pyc
